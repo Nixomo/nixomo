@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Pedro</h1>
-<h3 align="center">In my last year of the Bachelor's of Computer Science and Engineering and already started my Master's in Cybersecurity and IoT.</h3>
+<h3 align="center">Approaching the last year of my Master's in Computer Science and Engineering specializing in Cybersecurity and IoT.</h3>
 
 - 🌱 I’m currently learning **Computer Science and Engineering** @IST
 
