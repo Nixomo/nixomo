@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm Pedro</h1>
-<h3 align="center">Master’s student in Computer Science and Engineering, specializing in **Cybersecurity** and **Internet of Things**. Currently writing a dissertation on authentication protocols based on hardware security. Passionate about cryptography, secure systems, and network security. Actively seeking a Cybersecurity role to apply technical expertise and problem-solving skills.</h3>
+<h3 align="center">Master’s student in Computer Science and Engineering, specializing in <b>Cybersecurity</b> and <b>Internet of Things</b>. Currently writing a dissertation on authentication protocols based on hardware security. Passionate about cryptography, secure systems, and network security. Actively seeking a Cybersecurity role to apply technical expertise and problem-solving skills.</h3>
 
 - 🌱 I’m currently learning **Computer Science and Engineering** @IST
 
 - 📫 How to reach me **px1234@sapo.pt**
 
-- ⚡ Fun fact **Sea cucumbers eat with their feet.**
+- ⚡ Fun fact: **Sea cucumbers eat with their feet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
